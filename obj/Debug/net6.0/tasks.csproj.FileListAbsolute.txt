@@ -1,0 +1,15 @@
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 5. Функции и одномерные массивы. Семинар 5/CWSem5/tasks/obj/Debug/net6.0/tasks.csproj.AssemblyReference.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 5. Функции и одномерные массивы. Семинар 5/CWSem5/tasks/obj/Debug/net6.0/tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 5. Функции и одномерные массивы. Семинар 5/CWSem5/tasks/obj/Debug/net6.0/tasks.AssemblyInfoInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 5. Функции и одномерные массивы. Семинар 5/CWSem5/tasks/obj/Debug/net6.0/tasks.AssemblyInfo.cs
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 5. Функции и одномерные массивы. Семинар 5/CWSem5/tasks/obj/Debug/net6.0/tasks.csproj.CoreCompileInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 5. Функции и одномерные массивы. Семинар 5/CWSem5/tasks/bin/Debug/net6.0/tasks
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 5. Функции и одномерные массивы. Семинар 5/CWSem5/tasks/bin/Debug/net6.0/tasks.deps.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 5. Функции и одномерные массивы. Семинар 5/CWSem5/tasks/bin/Debug/net6.0/tasks.runtimeconfig.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 5. Функции и одномерные массивы. Семинар 5/CWSem5/tasks/bin/Debug/net6.0/tasks.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 5. Функции и одномерные массивы. Семинар 5/CWSem5/tasks/bin/Debug/net6.0/tasks.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 5. Функции и одномерные массивы. Семинар 5/CWSem5/tasks/obj/Debug/net6.0/tasks.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 5. Функции и одномерные массивы. Семинар 5/CWSem5/tasks/obj/Debug/net6.0/refint/tasks.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 5. Функции и одномерные массивы. Семинар 5/CWSem5/tasks/obj/Debug/net6.0/tasks.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 5. Функции и одномерные массивы. Семинар 5/CWSem5/tasks/obj/Debug/net6.0/tasks.genruntimeconfig.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 5. Функции и одномерные массивы. Семинар 5/CWSem5/tasks/obj/Debug/net6.0/ref/tasks.dll
